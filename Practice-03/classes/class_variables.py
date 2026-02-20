@@ -1,0 +1,12 @@
+class Dog:
+    species = "Canine"
+
+    def __init__(self, name):
+        self.name = name
+
+
+d1 = Dog("Buddy")
+d2 = Dog("Max")
+
+print(d1.name, d1.species)
+print(d2.name, d2.species)

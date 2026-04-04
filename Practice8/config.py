@@ -3,5 +3,5 @@ DB_CONFIG = {
     "port": 5432,
     "dbname": "phonebook_db",
     "user": "postgres",
-    "password": "tu1n@2007"
+    "password": ""
 }
